@@ -1,4 +1,4 @@
-```markdown
+
 # React State Management Project Series: Counter Application
 
 ## Project Description
